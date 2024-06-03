@@ -40,7 +40,7 @@ Then, you can run the script using:
 ```bash
 ./install_docker.sh
 
-Use the below command to grant all users the privilege to run docker commands.
+# Use the below command to grant all users the privilege to run docker commands.
 
 sudo chmod 666 /var/run/docker.sock
 ```
